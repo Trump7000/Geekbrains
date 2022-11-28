@@ -92,6 +92,8 @@ https://youtu.be/zZBiln_2FhM - _**Git. курс для новичков**_
 
 https://youtu.be/32XsfeIX_rM - _**Музыка для работы**_
 
+https://habr.com/ru/company/ruvds/blog/599929/ - _**30 основных команд для Git**_
+
 # Мои фото
 ![кличко](%D0%BA%D0%BB%D0%B8%D1%87%D0%BA%D0%BE.jpg)
 
